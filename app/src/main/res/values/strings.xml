@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">interactive-system</string>
+    <string name="title_activity_variant_aactivity">VariantAActivity</string>
+    <string name="title_activity_variant_bactivity">VariantBActivity</string>
+    <string name="hide_password">hide password</string>
+    <string name="show_password">show password</string>
+
+</resources>
